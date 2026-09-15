@@ -10,6 +10,7 @@ I work across React frontends, backend APIs, relational data systems, and automa
 | --- | --- | --- |
 | [CampusData](https://github.com/ykart897/CampusData) | A full-stack university preference platform built around real YÖK Atlas data, caching, search, and browser-tested user flows. | React, TypeScript, Spring Boot, PostgreSQL, Redis, Docker, Playwright |
 | [NetTwin](https://github.com/ykart897/nettwin) | A local-first radio network digital twin with observed telemetry, replay, simulation, explainable anomaly detection, and guarded optimization. | Python, FastAPI, SQLAlchemy, React, SQLite/PostgreSQL, Playwright |
+| [Carbon-Aware Gateway](https://github.com/ykart897/carbon-aware-gateway) | A carbon-aware serverless request router with regional intensity forecasting, reproducible scheduler experiments, and explicit sustainability metrics. | Python, FastAPI, SQLite, ARIMA/Prophet, Docker, GitHub Actions |
 
 ## What I care about
 
