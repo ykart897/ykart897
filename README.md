@@ -9,7 +9,7 @@ I work across React frontends, backend APIs, relational data systems, and automa
 | Project | What it demonstrates | Stack |
 | --- | --- | --- |
 | [CampusData](https://github.com/ykart897/CampusData) | A full-stack university preference platform built around real YÖK Atlas data, caching, search, and browser-tested user flows. | React, TypeScript, Spring Boot, PostgreSQL, Redis, Docker, Playwright |
-| [NetTwin](https://github.com/ykart897/nettwin) | A local-first radio network digital twin with observed telemetry, replay, simulation, explainable anomaly detection, and guarded optimization. | Python, FastAPI, SQLAlchemy, React, SQLite/PostgreSQL, Playwright |
+| [nettwin](https://github.com/ykart897/nettwin) | A local-first radio network digital twin with observed telemetry, replay, simulation, explainable anomaly detection, and guarded optimization. | Python, FastAPI, SQLAlchemy, React, SQLite/PostgreSQL, Playwright |
 | [carbon-aware-gateway](https://github.com/ykart897/carbon-aware-gateway) | A carbon-aware serverless request router with regional intensity forecasting, reproducible scheduler experiments, and explicit sustainability metrics. | Python, FastAPI, SQLite, ARIMA/Prophet, Docker, GitHub Actions |
 | [SauceDemo Test Automation](https://github.com/ykart897/saucedemo-test-automation) | Cross-browser BDD automation with reliable headless interactions, failure evidence, traceability, and downloadable CI reports. | Java 17, Selenium, Cucumber, TestNG, Maven, GitHub Actions |
 
